@@ -1,0 +1,6 @@
+{
+  "name": "XALDOON",
+  "description": "Every Problem Deserves a Solution - Global problem-solving, services, skills and opportunities platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

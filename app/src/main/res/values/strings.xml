@@ -1,0 +1,156 @@
+<resources>
+    <string name="app_name">XALDOON</string>
+    <string name="tagline">Every Problem Deserves a Solution</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_explore">Explore</string>
+    <string name="nav_create">Create</string>
+    <string name="nav_opportunities">Opportunities</string>
+    <string name="nav_profile">Profile</string>
+
+    <!-- Onboarding -->
+    <string name="welcome_to_xaldoon">Welcome to XALDOON</string>
+    <string name="onboarding_subtitle">The global ecosystem connecting real-world problems with verified solutions, skills, and tangible opportunities.</string>
+    <string name="select_preferred_language">Select Your Preferred Language</string>
+    <string name="english_lang">English</string>
+    <string name="somali_lang">Somali (Af-Soomaali)</string>
+    <string name="offline_notice_title">100% Private &amp; Offline Storage</string>
+    <string name="offline_notice_body">In Phase 1, all your posts, profiles, and saved bookmarks stay securely on your device database. No external tracking or hidden clouds.</string>
+    <string name="get_started">Get Started</string>
+    <string name="create_local_profile">Set Up Your Profile</string>
+    <string name="full_name">Full Name</string>
+    <string name="enter_name_hint">e.g. Abdirahman Mohamed</string>
+    <string name="short_bio">Short Bio or Profession</string>
+    <string name="bio_hint">e.g. Software Engineer &amp; Community Organizer</string>
+    <string name="country_label">Country</string>
+    <string name="city_label">City</string>
+    <string name="skills_label">Skills (comma separated)</string>
+    <string name="interests_label">Interests &amp; Focus Areas</string>
+    <string name="complete_setup">Complete Setup</string>
+
+    <!-- Home -->
+    <string name="welcome_back">Welcome back,</string>
+    <string name="search_hint_home">Search needs, solutions, services…</string>
+    <string name="categories_header">Browse Categories</string>
+    <string name="recent_needs">Recent Needs</string>
+    <string name="recent_solutions">Recent Solutions</string>
+    <string name="featured_opportunities">Featured Opportunities</string>
+    <string name="view_all">View All</string>
+    <string name="suggested_content">Suggested for You</string>
+    <string name="empty_home_title">No records available</string>
+    <string name="empty_home_desc">Be the pioneer! Post the first need, offer a solution, or list a service.</string>
+
+    <!-- Explore -->
+    <string name="explore_title">Explore &amp; Discover</string>
+    <string name="search_records">Search everything…</string>
+    <string name="filter_all">All</string>
+    <string name="filter_needs">Needs</string>
+    <string name="filter_solutions">Solutions</string>
+    <string name="filter_services">Services</string>
+    <string name="filter_opportunities">Opportunities</string>
+    <string name="sort_newest">Newest First</string>
+    <string name="sort_oldest">Oldest First</string>
+    <string name="filter_by_category">Filter Category</string>
+    <string name="filter_by_location">Filter Location</string>
+    <string name="reset_filters">Reset</string>
+    <string name="no_search_results">No results match your criteria</string>
+    <string name="try_adjusting_filters">Try broadening your keywords or removing filters.</string>
+
+    <!-- Create -->
+    <string name="create_hub_title">Create New Record</string>
+    <string name="create_hub_subtitle">Post your challenge, share your solution, showcase services, or launch opportunities.</string>
+    <string name="post_a_need">Post a Need</string>
+    <string name="post_a_need_desc">Describe a community, technical, or business problem that requires solving.</string>
+    <string name="offer_a_solution">Offer a Solution</string>
+    <string name="offer_a_solution_desc">Propose an actionable blueprint, method, or working prototype.</string>
+    <string name="list_a_service">List a Service</string>
+    <string name="list_a_service_desc">Offer your verified professional skills to individuals or enterprises.</string>
+    <string name="publish_opportunity">Publish Opportunity</string>
+    <string name="publish_opportunity_desc">Post jobs, internships, business partnerships, or investments.</string>
+
+    <!-- Forms -->
+    <string name="form_title_need">Post a Need / Problem</string>
+    <string name="form_title_solution">Propose a Solution</string>
+    <string name="form_title_service">List Professional Service</string>
+    <string name="form_title_opportunity">Publish Opportunity</string>
+    <string name="title_field">Title</string>
+    <string name="description_field">Detailed Description</string>
+    <string name="category_field">Category</string>
+    <string name="status_field">Status</string>
+    <string name="price_field">Price / Compensation (Optional)</string>
+    <string name="contact_field">Contact Details (Email, Phone, Telegram)</string>
+    <string name="related_need_field">Related Need (Optional)</string>
+    <string name="opportunity_type_field">Opportunity Type</string>
+    <string name="organization_field">Organization / Company</string>
+    <string name="requirements_field">Requirements &amp; Qualifications</string>
+    <string name="deadline_field">Deadline (Optional)</string>
+    <string name="save_record">Save Record</string>
+    <string name="update_record">Update Record</string>
+    <string name="delete_record">Delete Record</string>
+    <string name="confirm_delete_title">Confirm Deletion</string>
+    <string name="confirm_delete_body">Are you sure you want to permanently remove this record? This action cannot be undone.</string>
+    <string name="validation_title_required">Title cannot be empty</string>
+    <string name="validation_desc_required">Description must be at least 10 characters</string>
+
+    <!-- Statuses -->
+    <string name="status_open">Open</string>
+    <string name="status_in_progress">In Progress</string>
+    <string name="status_solved">Solved</string>
+    <string name="status_closed">Closed</string>
+    <string name="status_draft">Draft</string>
+    <string name="status_offered">Offered</string>
+    <string name="status_accepted">Accepted</string>
+    <string name="status_completed">Completed</string>
+    <string name="status_available">Available</string>
+    <string name="status_busy">Busy</string>
+    <string name="status_upon_request">Upon Request</string>
+
+    <!-- Badges -->
+    <string name="badge_demo">DEMO DATA</string>
+    <string name="badge_user">MY RECORD</string>
+    <string name="badge_community">COMMUNITY</string>
+
+    <!-- Profile & Settings -->
+    <string name="profile_title">Profile &amp; Settings</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="my_contributions">My Local Contributions</string>
+    <string name="needs_count">Needs</string>
+    <string name="solutions_count">Solutions</string>
+    <string name="services_count">Services</string>
+    <string name="saved_count">Bookmarks</string>
+    <string name="language_settings">Language / Luqadda</string>
+    <string name="appearance">Appearance</string>
+    <string name="dark_mode">Dark Theme</string>
+    <string name="storage_info_title">Data &amp; Architecture Transparency</string>
+    <string name="storage_info_desc">Running offline Room SQLite database. Architecture is engineered with clean repository abstractions ready for future XALDOON PostgreSQL enterprise sync.</string>
+    <string name="future_roadmap_title">Future Company Cloud Roadmap</string>
+    <string name="future_roadmap_desc">Upcoming Phase 2 features: PostgreSQL enterprise backend, end-to-end encrypted messaging, global payments, verified business accounts, and multi-region sync.</string>
+    <string name="danger_zone">Local Data Management</string>
+    <string name="clear_my_data">Clear My Created Records</string>
+    <string name="reset_profile">Reset Profile</string>
+    <string name="confirm_clear_data">Are you sure you want to clear your local records?</string>
+
+    <!-- Actions -->
+    <string name="action_bookmark">Bookmark</string>
+    <string name="action_bookmarked">Saved</string>
+    <string name="action_share">Share</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_back">Back</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_confirm">Confirm</string>
+    <string name="record_saved_success">Record successfully saved!</string>
+    <string name="record_deleted_success">Record successfully deleted.</string>
+
+    <!-- Opportunities screen -->
+    <string name="all_opportunities">All Opportunities</string>
+    <string name="filter_opp_jobs">Jobs</string>
+    <string name="filter_opp_freelancing">Freelance</string>
+    <string name="filter_opp_business">Business</string>
+    <string name="filter_opp_partnerships">Partnerships</string>
+    <string name="filter_opp_education">Education</string>
+    <string name="filter_opp_internship">Internships</string>
+    <string name="filter_opp_volunteering">Volunteering</string>
+    <string name="filter_opp_investment">Investment</string>
+</resources>

@@ -1,0 +1,156 @@
+<resources>
+    <string name="app_name">XALDOON</string>
+    <string name="tagline">Dhibaato Kasta Waxay Mudan Tahay Xal</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Hoyga</string>
+    <string name="nav_explore">Sahami</string>
+    <string name="nav_create">Abuur</string>
+    <string name="nav_opportunities">Fursado</string>
+    <string name="nav_profile">Muuqaalka</string>
+
+    <!-- Onboarding -->
+    <string name="welcome_to_xaldoon">Kusoo Dhawoow XALDOON</string>
+    <string name="onboarding_subtitle">Madal caalami ah oo isku xiraysa dhibaatooyinka dhabta ah, xalalka la hubo, xirfadaha iyo fursadaha muuqda.</string>
+    <string name="select_preferred_language">Dooro Luqaddaada</string>
+    <string name="english_lang">Ingiriisi (English)</string>
+    <string name="somali_lang">Af-Soomaali</string>
+    <string name="offline_notice_title">100% Kayd Gaar Ah &amp; Aan Internet U Baahnayn</string>
+    <string name="offline_notice_body">Wejiga 1-aad, dhammaan qoraaladaada, xogtaada, iyo fursadaha aad kaydsato waxay ku kaydsan yihiin gudaha taleefankaaga si nabadgelyo leh.</string>
+    <string name="get_started">Bilaab</string>
+    <string name="create_local_profile">Dhis Muuqaalkaaga</string>
+    <string name="full_name">Magacaaga oo Buuxa</string>
+    <string name="enter_name_hint">tusaale: Cabdiraxmaan Maxamed</string>
+    <string name="short_bio">Qoraal Kooban ama Shaqadaada</string>
+    <string name="bio_hint">tusaale: Injineer Kumbuyuutar &amp; Horumariye Bulsho</string>
+    <string name="country_label">Dalka</string>
+    <string name="city_label">Magaalada</string>
+    <string name="skills_label">Xirfadahaaga (ku kala saar hakad)</string>
+    <string name="interests_label">Meelaha Aad Danayso</string>
+    <string name="complete_setup">Dhamaystir</string>
+
+    <!-- Home -->
+    <string name="welcome_back">Kusoo dhawoow,</string>
+    <string name="search_hint_home">Raadi baahiyo, xalal, adeegyo…</string>
+    <string name="categories_header">Qaybaha Kala Duwan</string>
+    <string name="recent_needs">Baahiyaha Cusub</string>
+    <string name="recent_solutions">Xalalka Cusub</string>
+    <string name="featured_opportunities">Fursadaha La Doortay</string>
+    <string name="view_all">Dhammaan Arag</string>
+    <string name="suggested_content">Kuu Gaar Ah</string>
+    <string name="empty_home_title">Weli ma jiraan xog</string>
+    <string name="empty_home_desc">Noqo qofka ugu horreeya! Soo bandhig baahi, soo bandhig xal, ama xayeysii adeeg.</string>
+
+    <!-- Explore -->
+    <string name="explore_title">Sahami &amp; Raadi</string>
+    <string name="search_records">Raadi wax kasta…</string>
+    <string name="filter_all">Dhammaan</string>
+    <string name="filter_needs">Baahiyaha</string>
+    <string name="filter_solutions">Xalalka</string>
+    <string name="filter_services">Adeegyada</string>
+    <string name="filter_opportunities">Fursadaha</string>
+    <string name="sort_newest">Ugu Cusub Hore</string>
+    <string name="sort_oldest">Ugu Horeeyay Hore</string>
+    <string name="filter_by_category">Kala Shaandhee Qayb</string>
+    <string name="filter_by_location">Kala Shaandhee Goob</string>
+    <string name="reset_filters">Dib u Deji</string>
+    <string name="no_search_results">Lama helin natiijooyin waafaqsan raadintaada</string>
+    <string name="try_adjusting_filters">Isku day inaad bedesho erayada ama aad dhimto shaandhaynta.</string>
+
+    <!-- Create -->
+    <string name="create_hub_title">Abuur Qoraal Cusub</string>
+    <string name="create_hub_subtitle">Gudbi caqabad ku haysata, wadaag xal aad hayso, soo bandhig adeeg ama shaaci fursad.</string>
+    <string name="post_a_need">Soo Gudbi Baahi</string>
+    <string name="post_a_need_desc">Sharax dhibaato bulsho, farsamo, ama ganacsi oo u baahan xal.</string>
+    <string name="offer_a_solution">Bixi Xal</string>
+    <string name="offer_a_solution_desc">Soo bandhig qorshe, hab cusub, ama tusaale la fulin karo.</string>
+    <string name="list_a_service">Diiwaangeli Adeeg</string>
+    <string name="list_a_service_desc">Soo bandhig xirfadaada la hubo dadka iyo ganacsiyada u baahan.</string>
+    <string name="publish_opportunity">Shaaci Fursad</string>
+    <string name="publish_opportunity_desc">Shaqooyin, layliyo, wada-shaqeyn ganacsi, ama maalgashi.</string>
+
+    <!-- Forms -->
+    <string name="form_title_need">Gudbi Baahi / Dhibaato</string>
+    <string name="form_title_solution">Bixi Xal Cusub</string>
+    <string name="form_title_service">Diiwaangeli Adeeg Xirfadeed</string>
+    <string name="form_title_opportunity">Shaaci Fursad Cusub</string>
+    <string name="title_field">Cinwaanka</string>
+    <string name="description_field">Sharaxaadda oo Faahfaahsan</string>
+    <string name="category_field">Qaybta</string>
+    <string name="status_field">Xaaladda</string>
+    <string name="price_field">Qiimaha / Mushaharka (Haddii uu jiro)</string>
+    <string name="contact_field">Faahfaahinta Xiriirka (Email, Telefoon, Telegram)</string>
+    <string name="related_need_field">Baahida La Xiriirta (Haddii ay jirto)</string>
+    <string name="opportunity_type_field">Nooca Fursadda</string>
+    <string name="organization_field">Hay\'adda / Shirkadda</string>
+    <string name="requirements_field">Shuruudaha &amp; Aqoonta Loo Baahan Yahay</string>
+    <string name="deadline_field">Waqtiga Ugu Dambeeya (Ikhtiyaari)</string>
+    <string name="save_record">Keydi</string>
+    <string name="update_record">Cusboonaysii</string>
+    <string name="delete_record">Tirtir</string>
+    <string name="confirm_delete_title">Xaqiiji Tirtiridda</string>
+    <string name="confirm_delete_body">Ma hubtaa inaad tirtirto qoraalkan? Dib looma soo celin karo.</string>
+    <string name="validation_title_required">Cinwaanka ma noqon karo faaruq</string>
+    <string name="validation_desc_required">Sharaxaadu waa inay ka koobnaataa ugu yaraan 10 xaraf</string>
+
+    <!-- Statuses -->
+    <string name="status_open">Furan</string>
+    <string name="status_in_progress">Socda</string>
+    <string name="status_solved">La Xaliyey</string>
+    <string name="status_closed">Xidhan</string>
+    <string name="status_draft">Qabyo</string>
+    <string name="status_offered">La Bixiyay</string>
+    <string name="status_accepted">La Aqbalay</string>
+    <string name="status_completed">Dhamaaday</string>
+    <string name="status_available">Diyaar Ah</string>
+    <string name="status_busy">Mashquul</string>
+    <string name="status_upon_request">Marka La Codsado</string>
+
+    <!-- Badges -->
+    <string name="badge_demo">XOG TUSAALE</string>
+    <string name="badge_user">QORAALKAYGA</string>
+    <string name="badge_community">BULSHADA</string>
+
+    <!-- Profile & Settings -->
+    <string name="profile_title">Muuqaalka &amp; Hagaajinta</string>
+    <string name="edit_profile">Wax Ka Beddel</string>
+    <string name="my_contributions">Waxqabadkayga Taleefanka</string>
+    <string name="needs_count">Baahiyo</string>
+    <string name="solutions_count">Xalal</string>
+    <string name="services_count">Adeegyo</string>
+    <string name="saved_count">Kaydsan</string>
+    <string name="language_settings">Luqadda / Language</string>
+    <string name="appearance">Muuqaalka Shaashadda</string>
+    <string name="dark_mode">Habka Habeenka (Dark Theme)</string>
+    <string name="storage_info_title">Daahfurnaanta Kaydka &amp; Nidaamka</string>
+    <string name="storage_info_desc">Waxay ku shaqaynaysaa Room SQLite oo gudaha ah. Nidaamku wuxuu diyaarsan yahay xiriirinta serverka weyn ee PostgreSQL mustaqbalka.</string>
+    <string name="future_roadmap_title">Qorshaha Server-ka Shirkadda</string>
+    <string name="future_roadmap_desc">Wejiga 2-aad: Server weyn oo PostgreSQL ah, farriimaha sirta ah, lacag-bixinta caalamiga ah, iyo xaqiijinta ganacsiyada.</string>
+    <string name="danger_zone">Maareynta Xogta Taleefanka</string>
+    <string name="clear_my_data">Tirtir Xogta aan Abuuray</string>
+    <string name="reset_profile">Dib u Deji Muuqaalka</string>
+    <string name="confirm_clear_data">Ma hubtaa inaad tirtirto dhammaan xogta aad abuurtay?</string>
+
+    <!-- Actions -->
+    <string name="action_bookmark">Kaydi</string>
+    <string name="action_bookmarked">Waa Kaydsan Yahay</string>
+    <string name="action_share">Wadaag</string>
+    <string name="action_edit">Wax Ka Beddel</string>
+    <string name="action_delete">Tirtir</string>
+    <string name="action_back">Dib</string>
+    <string name="action_cancel">Jooji</string>
+    <string name="action_confirm">Xaqiiji</string>
+    <string name="record_saved_success">Si guul leh ayaa loo keydiyey!</string>
+    <string name="record_deleted_success">Si guul leh ayaa loo tirtiray.</string>
+
+    <!-- Opportunities screen -->
+    <string name="all_opportunities">Dhammaan Fursadaha</string>
+    <string name="filter_opp_jobs">Shaqooyin</string>
+    <string name="filter_opp_freelancing">Xor (Freelance)</string>
+    <string name="filter_opp_business">Ganacsi</string>
+    <string name="filter_opp_partnerships">Wada-shaqayn</string>
+    <string name="filter_opp_education">Waxbarasho</string>
+    <string name="filter_opp_internship">Tababar</string>
+    <string name="filter_opp_volunteering">Mutadawacnimo</string>
+    <string name="filter_opp_investment">Maalgashi</string>
+</resources>
